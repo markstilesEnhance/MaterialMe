@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">素材ミー！</string>
+    <string name="title_placeholder">題名</string>
+    <string name="news_placeholder">便り</string>
+    <string name="sports_info_placeholder">ここにいくつかのニュースがあります</string>
+    <string name="subtitle_detail_text">額が均画イキ建男メヘ脚稿さぱ聞畳くごぞょ権政マ丸感広知タ譲82枠わ
+        ふみう辞目ばラでん雪載べレけせ新否のちなべ慶咲ねリみ日力ハムレ暮健キ瓶稿げだで語説エチ技木左症割てレう。
+        響リアモ売無年むょぶへ面七気提え節体つな官繊ウチス庫関読ぐ合機メ線徳サツタト辺川盾まぱ。18名営伎象3正9覚スエ置堀ぐべ
+        想棄キ長発じちこ空体テマモ楽者いトるよ型93小フヲチ梨予だじな対選りは封仏功彦臨ぞろ。</string>
+
+    <string-array name="sports_titles">
+        <item>野球</item>
+        <item>バドミントン</item>
+        <item>バスケットボール</item>
+        <item>ボウリング</item>
+        <item>サイクリング</item>
+        <item>ゴルフ</item>
+        <item>ランニング</item>
+        <item>サッカー</item>
+        <item>水泳</item>
+        <item>卓球</item>
+        <item>テニス</item>
+    </string-array>
+
+    <string-array name="sports_info">
+        <item>これが野球のニュースです！</item>
+        <item>これがバドミントンのニュースです！</item>
+        <item>これがバスケットボールのニュースです！</item>
+        <item>ここにボウリングのニュースがあります！</item>
+        <item>サイクリングのニュースをお届けします！</item>
+        <item>これがゴルフのニュースです！</item>
+        <item>ここにいくつかのランニングニュースがあります！</item>
+        <item>サッカーのニュースです！</item>
+        <item>ここに水泳のニュースがあります！</item>
+        <item>卓球のニュースがあります！</item>
+        <item>テニスのニュースがあります！</item>
+    </string-array>
+
+
+    <array name="sports_images">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+
+    </array>
+
+
+</resources>
